@@ -108,7 +108,7 @@
     "can-use-dom": "^0.1.0",
     "create-react-class": "^15.5.2",
     "google-maps-infobox": "^1.1.13",
-    "invariant": "^2.2.1",
+    "invariant": "^2.2.4",
     "lodash": "^4.16.2",
     "marker-clusterer-plus": "^2.1.4",
     "prop-types": "^15.5.8",
